@@ -3,5 +3,5 @@ Content/Characters/Character_HighMother/SM_InsectBaby_Mother.uasset filter=lfs d
 Content/Characters/Character_HighMother/SM_Body_Mother.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Materials/M_Porcelain_Material/TX_Podium_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Materials/M_Alien_Material/T_Plate_c_BaseColor.uasset filter=lfs diff=lfs merge=lfs -text
-Content/Materials/M_Alien_Material/T_Ceiling_BaseColor.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Materials/M_Alien_Material/T_Alien_BaseColor.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Characters/Character_HighMother/SM_Head_Mother.uasset filter=lfs diff=lfs merge=lfs -text
